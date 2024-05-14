@@ -1,0 +1,75 @@
+.section-1 {
+    min-height: 1200px;
+    max-height: 1200px;   
+    opacity: 1;
+}
+
+.section-1 .content-1 {
+    min-height: 166px;
+    max-height: 166px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+  
+}
+.group1{
+    background-image: url("../../Resources/images/image3_opp.png");
+    background-size: cover;
+}
+.section-1 .content-2 {
+    min-height: 800px;
+    max-height: 8000px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.section-1 .content-2 .sub-1 img {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+.section-1 .content-2 .sub-2 p {
+    font-size: 25px;
+}
+.slide{
+    margin-top: -10%;
+}
+.slide img{
+    height: 800px;
+}
+.content-3 {
+    min-height: 920px;
+    max-height: 920px;
+    background-image: url("../../Resources/images/image4_opp.png");
+    object-fit: cover;
+}
+.content-3{
+
+}
+.section-1 .content-4 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    min-height: 400px;
+    max-height: 400px;
+}
+.section-1 .content-4 .card{
+
+    height: 400px;
+    height: 400px;
+
+}
+.section-1 .content-4 img{
+    width: 100%;
+    height: 280px;
+  
+}
+.section-5{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
